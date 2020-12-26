@@ -9,7 +9,6 @@ Paste your SQL statement below.
 (4) Insert 3 rows into the Products table.  Note that you will have to specify a valid SupplierID and CategoryID, 
 corresponding to rows from the Supplier and Category tables.  Paste your three SQL statements below.
 
-(5) Update the two top rows of the Products Table to increase the price by 1.50. (Just specify the new value; do 
-not try to get SQL to do the addition for you.)  Paste your SQL statement below
+(5) Update the two top rows of the Products Table to increase the price by 1.50. (Get SQL to do the addition for you.)  Paste your SQL statement below.
 
 (6) Delete all rows of the Products Table where the price is less than 7.00. Paste your SQL statement below.
