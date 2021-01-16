@@ -1,4 +1,4 @@
-# Assignment for Code The Dream Backend Week 1
+# Assignment for Code The Dream Backend: Starting SQL
 A practice SQL environment is at https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
 
 Note: It is not possible to do these exercises in Firefox.  Use Chrome, or if you have a different browser, try it to see if it works.
